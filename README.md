@@ -80,4 +80,4 @@ python discord-bot/main.py      # start discord app
 <br>
 
 <p align="center">Tested in Ubuntu 18.04, Python3.9</p>
-  
+<h4 align="center">Deployed with Replit.com and Github Actions</h4>
