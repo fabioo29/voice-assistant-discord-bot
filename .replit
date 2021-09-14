@@ -1,0 +1,2 @@
+run="pip install -r requirements.txt; pip install git+https://github.com/Sheepposu/discord.py.git; python discord-bot/main.py -sp"
+language="python3.9"
